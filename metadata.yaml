@@ -1,0 +1,40 @@
+_repo: Manners-and-Monuments-of-Prehistoric-Peoples_3309
+contributor:
+  translator:
+    agent_name: D'Anvers, N.
+    aliases:
+    - Bell, Arthur, Mrs.
+    - Bell, Nancy
+    - Bell, Nancy R. E. Meugens
+    - Bell, Mrs. Arthur
+    deathdate: 1933
+    gutenberg_agent_id: '1165'
+    url: http://www.gutenberg.org/2009/agents/1165
+creator:
+  author:
+    agent_name: Nadaillac, Jean-François-Albert du Pouget, marquis de
+    aliases:
+    - Pouget, Jean-François-Albert du, marquis de Nadaillac
+    - Nadaillac, Jean-Francois-Albert du Pouget, marquis de
+    - De Nadaillac, Jean-François-Albert du Pouget, marquis
+    - Du Pouget, Jean-François-Albert, marquis de Nadaillac
+    birthdate: 1818
+    deathdate: 1904
+    gutenberg_agent_id: '1164'
+    url: http://www.gutenberg.org/2009/agents/1164
+    wikipedia: http://fr.wikipedia.org/wiki/Jean_Fran%C3%A7ois_Albert_Du_Pouget_de_Nadaillac
+description: ''
+gutenberg_issued: '2002-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3309'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GN'
+- !lcsh 'Prehistoric peoples'
+- !lcsh 'Archaeology'
+title: Manners and Monuments of Prehistoric Peoples
+url: http://www.gutenberg.org/ebooks/3309
